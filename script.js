@@ -1,3 +1,4 @@
+
 function mostrarAlerta() {
-  alert("Você clicou no botão!");
+  alert("Obrigado por visitar nossa página verde!");
 }
